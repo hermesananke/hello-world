@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("hello, world\n");
+  printf("hello, world\n"); //uselles comment
   return 0;
 }
